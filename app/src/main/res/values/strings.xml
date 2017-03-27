@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestSegmentedButton</string>
+    <string name="action_settings">Settings</string>
+</resources>
